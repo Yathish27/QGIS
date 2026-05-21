@@ -1,4 +1,4 @@
-# QGIS Earth Engine Integration (Git-Friendly)
+# QGIS Earth Engine Integration 
 
 This repository contains a modular Python setup for running Google Earth Engine (GEE) scripts directly inside QGIS. 
 
