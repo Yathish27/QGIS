@@ -1,18 +1,14 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# QGIS specific lock and project files
+*.qgz
+*.qgz.lock
+*.qgs~
+*.qgd
 
-# Other files and folders
-.settings/
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# IDE folders
+.vscode/
+.idea/
